@@ -1,0 +1,1 @@
+{\n  \"buildCommand\": \"cd frontend && npm install && npm run build\",\n  \"outputDirectory\": \"frontend/dist\",\n  \"framework\": \"vite\",\n  \"env\": {\n    \"VITE_DERIV_APP_ID\": \"@deriv_app_id\",\n    \"VITE_API_URL\": \"@api_url\"\n  }\n}\n
